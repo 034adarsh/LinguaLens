@@ -103,5 +103,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any queries or support, please reach out to:
-- **Developer**: Your Name
-- **Email**: your-email@example.com
+- **Developer**: Adarsh Kumar Singh
+- **Email**: adarsh36jnp@gmail.com
