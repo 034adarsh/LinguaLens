@@ -36,21 +36,9 @@ This project provides a robust solution for translating file headers and content
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/language-translation-project.git
+   git clone https://github.com/LinguaLens/language-translation-project.git
    cd language-translation-project
    ```
-
-2. Set up a virtual environment:
-   ```bash
-   python3 -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r app/requirements.txt
-   ```
-
 ---
 
 ## Usage
